@@ -8,7 +8,7 @@ int main()
 	scanf_s("%d", &a);
 	if (a == 1)
 	{
-		system("cls");
+		system("cls");//jsfaofhja
 	}
 	
 }
